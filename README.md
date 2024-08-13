@@ -1,4 +1,4 @@
-# Golden-Boutiques-Project
+# Goldberg-Boutiques-Project
 Find Lowest Priced Variation Products of Golden Boutique in Product Family on Lazada Malaysia Platform by June 2023
 
 For More Details 
